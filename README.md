@@ -24,7 +24,7 @@ Commands
 
 ### Generate SQL Install Script ###
 
-This command lets you create a sql install script with the data from core_config_data
+This command lets you create a sql install script with the data from core_config_data. A file called 'install-0.0.1.php' will be created in the Magento root. Be aware to copy that file to its destination and do not leave it in the Magento root!
 
     $ n98-magerun.phar config:installscript
 
