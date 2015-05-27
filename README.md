@@ -13,9 +13,9 @@ There are different ways to install, see the [n98-magerun docs](http://magerun.n
 
 2. Clone the magerun-addons repository in there
 
-        cd ~/.n98-magerun/modules/ && git clone git@github.com:limesoda/magerun-addons.git
+        cd ~/.n98-magerun/modules/ && git clone https://github.com/LimeSoda/magerun-addons.git
 
-3. It should be installed. To see that it was installed, check to see if one of the new commands is in there, like `media:sync`.
+3. It should be installed. To see that it was installed, check to see if one of the new commands is in there, like `config:installscript`.
 
         $ n98-magerun.phar config:installscript
 
@@ -24,7 +24,7 @@ Commands
 
 ### Generate SQL Install Script ###
 
-This command lets you create a sql install script with the data from core_config_data. A file called 'install-0.0.1.php' will be created in the Magento root. Be aware to copy that file to its destination and do not leave it in the Magento root!
+This command lets you create a sql install script with the data from core_config_data. A file called `install-0.0.1.php` will be created in the Magento root. Be aware to copy that file to its destination and do not leave it in the Magento root!
 
     $ n98-magerun.phar config:installscript
 
