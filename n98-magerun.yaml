@@ -1,0 +1,6 @@
+autoloaders:
+  LimeSoda: %module%/src
+
+commands:
+  customCommands:
+    - LimeSoda\Magento\Command\Config\InstallScriptCommand
