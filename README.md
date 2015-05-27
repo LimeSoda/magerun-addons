@@ -40,8 +40,10 @@ Any contribution is highly appreciated. The best way to contribute code is to op
 Developer
 ---------
 Anna Völkl
+
 [http://www.limesoda.com](http://www.limesoda.com)  
-[@mzeis](https://twitter.com/rescueAnn)
+
+[@rescueAnn](https://twitter.com/rescueAnn)
 
 License
 -------
