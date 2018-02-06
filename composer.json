@@ -1,5 +1,5 @@
 {
-    "name": "limesoda/magerun-addons",
+    "name": "limesoda/limesoda_magerun-addons",
     "type": "library",
     "description": "Addons for n98-magerun",
     "keywords": ["magerun"],
