@@ -5,6 +5,7 @@
     "keywords": ["magerun"],
     "homepage": "https://github.com/limesoda/magerun-addons",
     "license": "OSL",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Anna Völkl",
